@@ -37,3 +37,17 @@ ul {
     background-color: #ddd;
     color: black;
 }
+
+.card {
+    display: flex;
+    justify-content: space-between;
+    gap: 20px;
+}
+
+.cards {
+    background-color: #f4f4f4;
+    padding: 20px;
+    border-radius: 5px;
+    flex: 1;
+    text-align: center;
+}
